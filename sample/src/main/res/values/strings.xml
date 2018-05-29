@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomBarExtended</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="bottomBar_phone">Phone</string>
+    <string name="bottomBar_camera">Camera</string>
+    <string name="bottomBar_location">Location</string>
+    <string name="bottomBar_user">User</string>
+</resources>
