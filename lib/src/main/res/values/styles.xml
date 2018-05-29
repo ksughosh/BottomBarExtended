@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <style name="Widget.BottomBarView" parent="">
-        <item name="itemBackground">?attr/selectableItemBackgroundBorderless</item>
-        <item name="elevation">@dimen/design_bottom_bar_elevation</item>
-    </style>
-</resources>
